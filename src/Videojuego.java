@@ -28,7 +28,7 @@ public class Videojuego {
         // Crear una instancia de la clase Videojuego
         Videojuego halo = new Videojuego("Xbox", "Halo", 2001, 49.99);
         Videojuego halo2 = new Videojuego("Xbox", "Halo 2", 2004, 59.99);
-        Videojuego halo3 = new Videojuego("Xbox", "Halo 3", 2007, 59.99);
+        Videojuego halo3 = new Videojuego("Xbox", "Halo 3", 2007, 69.99);
 
         // Llamar al método info para obtener información del videojuego
         halo.info();
